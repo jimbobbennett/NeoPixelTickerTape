@@ -8,6 +8,12 @@
     <Version>0.0.1</Version>
     <Authors>JimBobBennett</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/jimbobbennett/NeoPixelTickerTape</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jimbobbennett/NeoPixelTickerTape</RepositoryUrl>
+    <Title>NeoPixel Ticker Tape</Title>
+    <Description>A .NET IoT library for showing text on a 8x32 NeoPixel (WS2182b) panel</Description>
+    <PackageTags>GPIO;SPI;RPi;IoT;Device;NeoPixel;WS2182b</PackageTags>
   </PropertyGroup>
   
   <ItemGroup>
