@@ -4,6 +4,8 @@
 
 A .NET library to show and scroll text on a 8x32 NeoPixel (WS2812b LED) panel controlled by a Raspberry Pi.
 
+![Hello World scrolling on a 8x32 LED panel](./img/tickertape.gif)
+
 ## Hardware
 
 To use this, you will need the following hardware:
