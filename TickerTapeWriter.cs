@@ -2,7 +2,7 @@ using System.Drawing;
 using Iot.Device.Graphics;
 using Iot.Device.Ws28xx;
 
-namespace NeoPixelTickerTape
+namespace JimBobBennett.NeoPixelTickerTape
 {
     /// <summary>
     /// Writes text to a 8x32 NeoPixel panel, such as this one:

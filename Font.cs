@@ -1,5 +1,5 @@
 
-namespace NeoPixelTickerTape
+namespace JimBobBennett.NeoPixelTickerTape
 {
     /// <summary>
     /// A helper class containing the binary description of fonts used by the ticker tape
