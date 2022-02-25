@@ -62,7 +62,7 @@ namespace JimBobBennett.NeoPixelTickerTape
             0b01000100,
             0b00001010,
             0b00000000}},
-        {'\'', new byte[]{
+            {'\'', new byte[]{
             0b00000000,
             0b10100000,
             0b11000000,
