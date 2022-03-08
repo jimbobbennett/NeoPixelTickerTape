@@ -1,6 +1,6 @@
 # NeoPixel Ticker Tape
 
-![This package on NuGet](https://img.shields.io/nuget/v/JimBobBennett.NeoPixelTickerTape.svg?style=flat&logo=nuget)
+[![This package on NuGet](https://img.shields.io/nuget/v/JimBobBennett.NeoPixelTickerTape.svg?style=flat&logo=nuget)](https://www.nuget.org/packages/JimBobBennett.NeoPixelTickerTape/)
 
 A .NET library to show and scroll text on a 8x32 NeoPixel (WS2812b LED) panel controlled by a Raspberry Pi.
 
